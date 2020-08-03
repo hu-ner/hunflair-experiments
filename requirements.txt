@@ -1,0 +1,4 @@
+lxml
+flair
+scispacy==0.2.4
+tqdm

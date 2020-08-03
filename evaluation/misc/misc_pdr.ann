@@ -1,0 +1,1414 @@
+12197220	212	226	bladder cancer	Disease
+12197220	315	329	bladder cancer	Disease
+12197220	960	980	urothelial neoplasia	Disease
+19897839	107	113	cancer	Disease
+19897839	176	187	lung cancer	Disease
+19897839	374	389	premature death	Disease
+19897839	550	556	cancer	Disease
+8664812	121	127	cancer	Disease
+8664812	196	203	cancers	Disease
+8664812	698	709	lung cancer	Disease
+8664812	744	750	cancer	Disease
+8664812	796	815	cancer of the mouth	Disease
+23104247	383	407	autism spectrum disorder	Disease
+23104247	409	412	ASD	Disease
+23104247	469	476	seizure	Disease
+23104247	504	507	ASD	Disease
+23104247	533	552	neural tube defects	Disease
+23104247	761	794	impairment in social interactions	Disease
+23104247	1058	1080	electric shock seizure	Disease
+8634537	450	463	mycotoxicoses	Disease
+8634537	513	528	pulmonary edema	Disease
+8634537	1226	1243	esophageal cancer	Disease
+20134006	55	73	diarrheal diseases	Disease
+20134006	174	182	diarrhea	Disease
+9605207	90	96	cancer	Disease
+9605207	309	315	cancer	Disease
+9605207	456	462	cancer	Disease
+11117612	69	88	gallbladder disease	Disease
+11117612	156	175	gallbladder disease	Disease
+11117612	318	343	total gallbladder disease	Disease
+11117612	472	491	gallbladder disease	Disease
+11117612	622	647	total gallbladder disease	Disease
+11117612	702	712	gallstones	Disease
+21688009	12	39	Inflammatory bowel diseases	Disease
+21688009	41	44	IBD	Disease
+21688009	73	96	intestinal inflammation	Disease
+21688009	133	145	inflammation	Disease
+21688009	360	383	intestinal inflammation	Disease
+21688009	619	641	dextran sulfate sodium	Disease
+21688009	643	646	DSS	Disease
+21688009	656	663	colitis	Disease
+21688009	782	785	DSS	Disease
+21688009	1275	1278	DSS	Disease
+21688009	1311	1318	colitis	Disease
+21688009	1817	1824	colitis	Disease
+8087773	95	101	cancer	Disease
+8087773	213	219	cancer	Disease
+8087773	390	396	cancer	Disease
+24957864	0	8	Cannabis	Disease
+24957864	235	243	cannabis	Disease
+24957864	252	265	schizophrenia	Disease
+24957864	282	302	psychiatric disorder	Disease
+24957864	398	406	cannabis	Disease
+24957864	435	448	schizophrenia	Disease
+24957864	501	509	cannabis	Disease
+24957864	535	544	psychosis	Disease
+24957864	587	596	psychosis	Disease
+24957864	628	636	cannabis	Disease
+24957864	740	753	schizophrenia	Disease
+24957864	778	786	cannabis	Disease
+24957864	866	874	cannabis	Disease
+24957864	1018	1026	cannabis	Disease
+24957864	1092	1105	schizophrenia	Disease
+24957864	1110	1118	cannabis	Disease
+24957864	1298	1306	cannabis	Disease
+23972241	94	100	cancer	Disease
+23972241	296	302	cancer	Disease
+23972241	331	343	liver cancer	Disease
+23972241	1521	1542	hepatocellular cancer	Disease
+9350033	126	134	diabetic	Disease
+9350033	166	174	Diabetic	Disease
+9350033	428	436	diabetic	Disease
+9350033	517	525	diabetic	Disease
+9350033	535	543	Diabetic	Disease
+9350033	646	654	diabetic	Disease
+9350033	670	678	Diabetic	Disease
+9350033	783	791	diabetic	Disease
+9350033	871	879	diabetic	Disease
+9350033	962	993	decrease in blood phospholipids	Disease
+9350033	1125	1143	diabetic condition	Disease
+9350033	1283	1291	diabetic	Disease
+9350033	1374	1392	diabetic condition	Disease
+9823823	136	153	Alzheimer disease	Disease
+9823823	155	157	AD	Disease
+9823823	350	358	dementia	Disease
+9823823	362	382	cognitive impairment	Disease
+9823823	527	529	AD	Disease
+9823823	577	593	Mental Disorders	Disease
+9823823	643	665	Neurological Disorders	Disease
+9823823	670	676	Stroke	Disease
+9823823	677	696	Alzheimer's Disease	Disease
+9823823	701	718	Related Disorders	Disease
+9823823	913	923	depression	Disease
+9823823	931	949	neurologic disease	Disease
+9823823	1443	1451	dementia	Disease
+9823823	1456	1458	AD	Disease
+9823823	1986	1988	AD	Disease
+9823823	2097	2105	bleeding	Disease
+9823823	2124	2126	AD	Disease
+9823823	2567	2569	AD	Disease
+19627211	390	398	diabetes	Disease
+19627211	403	412	arthritis	Disease
+19627211	805	826	impaired joint health	Disease
+19627211	828	832	pain	Disease
+19627211	838	847	arthritis	Disease
+19627211	1707	1719	inflammation	Disease
+18560338	349	355	tumors	Disease
+18560338	426	431	tumor	Disease
+18560338	481	486	tumor	Disease
+18560338	536	541	tumor	Disease
+18560338	612	617	tumor	Disease
+18560338	739	744	tumor	Disease
+1523784	0	17	Fungal infections	Disease
+1523784	60	73	nasal disease	Disease
+1523784	235	276	infection causes obstructive nasal polyps	Disease
+1523784	481	494	nasal disease	Disease
+12936923	92	98	asthma	Disease
+12936923	231	237	asthma	Disease
+12936923	274	280	asthma	Disease
+12936923	700	725	bronchial hyperreactivity	Disease
+12936923	727	730	BHR	Disease
+12936923	858	864	asthma	Disease
+12936923	948	954	asthma	Disease
+12936923	1012	1018	asthma	Disease
+12936923	1039	1042	BHR	Disease
+12936923	1167	1173	asthma	Disease
+12936923	1211	1217	asthma	Disease
+12936923	1242	1245	BHR	Disease
+12936923	1319	1325	asthma	Disease
+12936923	1346	1352	asthma	Disease
+12936923	1377	1380	BHR	Disease
+12936923	1546	1564	asthma definitions	Disease
+12936923	1813	1819	asthma	Disease
+1441496	719	728	addiction	Disease
+1441496	918	934	coronary disease	Disease
+1441496	939	960	myocardial infarction	Disease
+1441496	1283	1293	arrhythmia	Disease
+1441496	1407	1412	tumor	Disease
+1441496	1660	1677	increased disease	Disease
+19638245	134	140	cancer	Disease
+19638245	428	434	cancer	Disease
+19638245	540	547	cancers	Disease
+19638245	629	635	cancer	Disease
+19638245	897	904	cancers	Disease
+19638245	1311	1331	oropharyngeal cancer	Disease
+19638245	1365	1380	prostate cancer	Disease
+19638245	1695	1710	prostate cancer	Disease
+19638245	1836	1849	kidney cancer	Disease
+19638245	1861	1868	cancers	Disease
+19638245	1991	2000	US cancer	Disease
+19638245	2246	2266	oropharyngeal cancer	Disease
+19638245	2408	2415	cancers	Disease
+8187074	121	130	neoplasia	Disease
+8187074	1809	1815	cancer	Disease
+22013392	87	94	cancers	Disease
+22013392	161	167	cancer	Disease
+22013392	453	459	cancer	Disease
+22013392	540	546	cancer	Disease
+22013392	636	643	cancers	Disease
+22013392	679	686	cancers	Disease
+22013392	826	833	cancers	Disease
+22013392	997	1003	cancer	Disease
+22013392	1160	1166	cancer	Disease
+22013392	1387	1398	Lung cancer	Disease
+22013392	1462	1476	adenocarcinoma	Disease
+22013392	1584	1598	adenocarcinoma	Disease
+22013392	1610	1616	cancer	Disease
+22013392	1631	1637	cancer	Disease
+22013392	1699	1720	adenocarcinoma cancer	Disease
+22013392	1815	1835	invasive lung cancer	Disease
+22013392	1957	1964	cancers	Disease
+22013392	2145	2151	cancer	Disease
+22013392	2233	2239	cancer	Disease
+22013392	2295	2306	lung cancer	Disease
+22013392	2419	2425	cancer	Disease
+22013392	2468	2474	cancer	Disease
+22012859	275	288	breast cancer	Disease
+22012859	1147	1160	breast cancer	Disease
+22012859	1370	1375	tumor	Disease
+22012859	1376	1384	necrosis	Disease
+22012859	1787	1800	breast cancer	Disease
+11496637	114	134	respiratory diseases	Disease
+11496637	275	295	respiratory diseases	Disease
+11496637	359	379	respiratory diseases	Disease
+11496637	553	559	asthma	Disease
+11496637	561	570	allergies	Disease
+11496637	580	590	bronchitis	Disease
+11496637	595	604	emphysema	Disease
+11496637	679	685	asthma	Disease
+11496637	695	705	bronchitis	Disease
+11496637	710	719	emphysema	Disease
+11496637	831	837	asthma	Disease
+11496637	878	887	asthmatic	Disease
+11496637	1248	1268	respiratory diseases	Disease
+15308586	80	86	cancer	Disease
+15308586	1873	1881	necrosis	Disease
+19487113	490	501	lung damage	Disease
+19487113	867	890	goblet cell hyperplasia	Disease
+19487113	1418	1429	lung damage	Disease
+19487113	1538	1549	lung injury	Disease
+20622705	101	113	pancreatitis	Disease
+20622705	231	243	pancreatitis	Disease
+20622705	514	526	pancreatitis	Disease
+20622705	1213	1225	pancreatitis	Disease
+20622705	1359	1371	pancreatitis	Disease
+20640522	122	138	mucosal injuries	Disease
+20640522	428	444	mucosal injuries	Disease
+20640522	510	524	mucosal injury	Disease
+20640522	564	578	mucosal injury	Disease
+20640522	940	964	Gastric mucosal injuries	Disease
+16370222	345	351	cancer	Disease
+16370222	363	380	colorectal cancer	Disease
+16370222	629	643	carcinogenesis	Disease
+16370222	737	754	colorectal cancer	Disease
+20410593	303	312	arthritis	Disease
+20410593	359	368	arthritis	Disease
+20410593	431	440	arthritis	Disease
+20410593	534	543	arthritis	Disease
+20410593	574	594	synovial hyperplasia	Disease
+20410593	596	626	inflammatory cell infiltration	Disease
+20410593	628	634	pannus	Disease
+20410593	903	908	tumor	Disease
+20410593	909	917	necrosis	Disease
+20410593	1483	1492	arthritis	Disease
+12151348	270	289	oral carcinogenesis	Disease
+12151348	779	784	tumor	Disease
+12151348	839	862	squamous cell carcinoma	Disease
+12151348	864	867	SCC	Disease
+12151348	989	995	tumors	Disease
+12151348	1004	1009	tumor	Disease
+12151348	1062	1065	SCC	Disease
+12151348	1067	1084	dysplasic lesions	Disease
+12151348	1089	1099	papillomas	Disease
+12151348	1203	1209	tumors	Disease
+12151348	1232	1237	tumor	Disease
+12151348	1280	1283	SCC	Disease
+12151348	1355	1372	dysplasic lesions	Disease
+12151348	1416	1419	SCC	Disease
+12151348	1512	1523	hyperplasia	Disease
+12151348	1525	1534	dysplasia	Disease
+12151348	1539	1549	papillomas	Disease
+12151348	1619	1622	SCC	Disease
+12151348	1714	1723	dysplasia	Disease
+12151348	1728	1731	SCC	Disease
+12151348	1822	1831	papilloma	Disease
+12151348	1836	1839	SCC	Disease
+12151348	1922	1941	oral carcinogenesis	Disease
+17661225	220	231	lung cancer	Disease
+17661225	352	363	lung cancer	Disease
+17661225	673	679	tumors	Disease
+17661225	758	770	lung cancers	Disease
+17661225	784	790	tumors	Disease
+17661225	1053	1073	increased lung tumor	Disease
+7597024	87	102	pancreas cancer	Disease
+7597024	190	196	Cancer	Disease
+7597024	281	309	carcinogenic in the pancreas	Disease
+7597024	579	594	pancreas cancer	Disease
+7597024	712	718	cancer	Disease
+7597024	770	785	pancreas cancer	Disease
+7597024	834	841	cancers	Disease
+7597024	1025	1031	cancer	Disease
+7597024	1139	1154	pancreas cancer	Disease
+7597024	1403	1410	cancers	Disease
+7597024	1491	1503	colon cancer	Disease
+7597024	1537	1550	rectum cancer	Disease
+7597024	1974	1989	pancreas cancer	Disease
+8210262	1038	1044	cancer	Disease
+16227704	11	25	Stomach cancer	Disease
+16227704	56	61	death	Disease
+16227704	174	188	stomach cancer	Disease
+16227704	349	363	stomach cancer	Disease
+16227704	488	502	stomach cancer	Disease
+16227704	539	545	cancer	Disease
+16227704	550	566	stomach diseases	Disease
+16227704	685	691	cancer	Disease
+16227704	1161	1167	cancer	Disease
+16227704	1200	1214	stomach cancer	Disease
+16227704	1698	1712	stomach cancer	Disease
+16227704	1890	1904	stomach cancer	Disease
+9504287	146	152	cancer	Disease
+9504287	214	232	myocardial infarct	Disease
+9504287	334	340	cancer	Disease
+9504287	511	517	cancer	Disease
+9504287	577	594	colorectal cancer	Disease
+9504287	604	622	myocardial infarct	Disease
+9504287	719	726	cancers	Disease
+9504287	769	783	breast cancers	Disease
+9504287	846	853	cancers	Disease
+9504287	914	932	myocardial infarct	Disease
+9504287	1055	1073	myocardial infarct	Disease
+9504287	1078	1085	cancers	Disease
+7586181	167	180	mammary tumor	Disease
+7586181	188	202	Carcinogenesis	Disease
+7586181	294	300	cancer	Disease
+7586181	750	764	carcinogenesis	Disease
+7586181	778	783	tumor	Disease
+7586181	866	871	tumor	Disease
+7586181	1175	1181	cancer	Disease
+7586181	1693	1706	tumorigenesis	Disease
+10743678	142	151	vasospasm	Disease
+10743678	156	168	vasculopathy	Disease
+10743678	179	202	subarachnoid hemorrhage	Disease
+10743678	272	281	vasospasm	Disease
+10743678	286	298	vasculopathy	Disease
+10743678	357	375	cerebral vasospasm	Disease
+10743678	1118	1144	proliferative vasculopathy	Disease
+10743678	1450	1473	subarachnoid hemorrhage	Disease
+10743678	1482	1491	vasospasm	Disease
+10743678	1496	1508	vasculopathy	Disease
+22986747	283	294	lung cancer	Disease
+22986747	428	439	lung cancer	Disease
+22986747	965	991	non-small cell lung cancer	Disease
+22986747	1103	1109	tumors	Disease
+22986747	1208	1219	lung cancer	Disease
+22986747	1273	1284	lung tumors	Disease
+22986747	1390	1401	lung cancer	Disease
+22986747	1676	1687	lung cancer	Disease
+20836552	141	149	diabetes	Disease
+20836552	158	172	cardiomyopathy	Disease
+20836552	229	237	diabetic	Disease
+20836552	368	376	diabetes	Disease
+20836552	588	596	diabetic	Disease
+20836552	936	944	diabetic	Disease
+20836552	968	976	diabetes	Disease
+20836552	985	1005	cardiac dysfunctions	Disease
+20836552	1162	1170	diabetes	Disease
+20836552	1179	1193	cardiomyopathy	Disease
+1182944	59	70	arrhythmias	Disease
+1182944	185	208	ventricular tachycardia	Disease
+1182944	377	400	ventricular tachycardia	Disease
+1182944	489	512	ventricular tachycardia	Disease
+1182944	898	909	arrhythmias	Disease
+8805113	62	83	tension-type headache	Disease
+8805113	720	728	headache	Disease
+8805113	821	842	tension-type headache	Disease
+8805113	891	899	headache	Disease
+8805113	987	995	headache	Disease
+8805113	1308	1316	headache	Disease
+8805113	1328	1336	headache	Disease
+8805113	1511	1519	headache	Disease
+8805113	1610	1614	pain	Disease
+8805113	2218	2239	tension-type headache	Disease
+21056445	70	77	malaria	Disease
+21056445	103	110	malaria	Disease
+21056445	302	309	malaria	Disease
+21056445	326	333	anaemia	Disease
+21056445	644	651	malaria	Disease
+21056445	692	699	malaria	Disease
+21056445	758	765	anaemia	Disease
+21056445	913	920	malaria	Disease
+21056445	936	943	anaemia	Disease
+22114531	49	53	pain	Disease
+22114531	55	62	anxiety	Disease
+22114531	64	74	flatulence	Disease
+22114531	80	96	loss of appetite	Disease
+22114531	179	186	amnesia	Disease
+22114531	1259	1263	pain	Disease
+24338506	34	40	cancer	Disease
+24338506	98	104	cancer	Disease
+24338506	191	197	cancer	Disease
+24338506	590	596	cancer	Disease
+24338506	781	787	cancer	Disease
+24338506	936	943	tumours	Disease
+24338506	978	991	liver cancers	Disease
+24338506	1104	1110	cancer	Disease
+24338506	1152	1159	tumours	Disease
+24338506	1285	1302	colorectal cancer	Disease
+11577746	75	84	hepatitis	Disease
+11577746	366	375	hepatitis	Disease
+11577746	669	678	hepatitis	Disease
+21894150	348	355	uveitis	Disease
+21894150	373	393	retinal inflammation	Disease
+21894150	406	413	uveitis	Disease
+21894150	936	948	inflammation	Disease
+21894150	1392	1412	retinal inflammation	Disease
+8729670	132	149	allergic diseases	Disease
+8729670	237	244	allergy	Disease
+8729670	892	898	atopic	Disease
+8729670	935	966	atopic to one or more allergens	Disease
+8729670	1025	1031	atopic	Disease
+8729670	1090	1109	atopic participants	Disease
+8729670	1114	1123	hay fever	Disease
+8729670	1135	1141	asthma	Disease
+8729670	1162	1171	hay fever	Disease
+8729670	1176	1182	asthma	Disease
+8729670	1196	1215	atopic participants	Disease
+8729670	1233	1242	hay fever	Disease
+8729670	1297	1313	bronchial asthma	Disease
+8729670	1342	1349	allergy	Disease
+8729670	1652	1661	hay fever	Disease
+8729670	1933	1939	asthma	Disease
+20406522	90	106	major depression	Disease
+20406522	108	110	MD	Disease
+20406522	332	334	MD	Disease
+20406522	561	563	MD	Disease
+20406522	643	645	MD	Disease
+20406522	666	668	MD	Disease
+20406522	716	718	MD	Disease
+20406522	780	782	MD	Disease
+20406522	951	953	MD	Disease
+20406522	961	963	MD	Disease
+20406522	1094	1096	MD	Disease
+20406522	1493	1495	MD	Disease
+23318138	39	52	tumorigenesis	Disease
+23318138	103	110	cancers	Disease
+23318138	159	165	cancer	Disease
+23318138	219	225	cancer	Disease
+23318138	300	306	cancer	Disease
+23318138	454	460	cancer	Disease
+23318138	670	676	cancer	Disease
+23318138	1579	1584	tumor	Disease
+23318138	1703	1723	colon carcinogenesis	Disease
+12589366	162	173	anaphylaxis	Disease
+12589366	933	942	urticaria	Disease
+12589366	947	954	dyspnea	Disease
+12589366	958	968	angioedema	Disease
+17850611	707	720	public health	Disease
+17850611	1007	1013	cancer	Disease
+17894889	65	70	death	Disease
+17894889	922	934	allelic loss	Disease
+17894889	1656	1668	lung disease	Disease
+24697562	26	36	Xerostomia	Disease
+24697562	64	84	dryness in the mouth	Disease
+24697562	117	127	xerostomia	Disease
+24697562	287	297	xerostomia	Disease
+24697562	585	593	bleeding	Disease
+24697562	719	729	xerostomia	Disease
+24697562	873	883	xerostomia	Disease
+24697562	1024	1034	Xerostomia	Disease
+24697562	1181	1191	xerostomia	Disease
+24697562	1324	1334	Xerostomia	Disease
+24697562	1434	1444	Xerostomia	Disease
+24697562	1471	1487	gingival disease	Disease
+24697562	1593	1603	xerostomia	Disease
+24697562	1633	1643	xerostomia	Disease
+24697562	1682	1692	gingivitis	Disease
+8125218	38	50	liver tumors	Disease
+8125218	181	193	cytotoxicity	Disease
+8125218	991	993	LI	Disease
+8125218	1119	1127	necrosis	Disease
+8125218	1150	1152	LI	Disease
+8125218	1246	1252	tumors	Disease
+8125218	1260	1266	cancer	Disease
+8125218	1508	1510	LI	Disease
+8125218	1769	1771	LI	Disease
+8125218	1943	1955	liver cancer	Disease
+8125218	2277	2283	cancer	Disease
+20353012	140	149	arthritis	Disease
+20353012	198	207	arthritis	Disease
+20353012	1113	1122	arthrosis	Disease
+20353012	1388	1397	arthrosis	Disease
+20353012	2230	2239	arthritis	Disease
+8187734	36	55	respiratory disease	Disease
+8187734	290	302	Philadelphia	Disease
+8187734	717	736	respiratory disease	Disease
+8187734	1518	1537	respiratory disease	Disease
+8537983	490	496	cancer	Disease
+8537983	657	671	breast cancers	Disease
+8537983	733	739	Cancer	Disease
+8537983	913	919	cancer	Disease
+8537983	956	962	cancer	Disease
+8537983	1035	1041	cancer	Disease
+8537983	1203	1217	breast cancers	Disease
+8537983	1375	1381	cancer	Disease
+8537983	1692	1709	colorectal cancer	Disease
+8537983	1817	1830	breast cancer	Disease
+8537983	2134	2141	cancers	Disease
+8537983	2362	2374	lung cancers	Disease
+8537983	2459	2465	cancer	Disease
+8537983	2666	2672	cancer	Disease
+8537983	2710	2724	breast cancers	Disease
+8537983	2856	2863	cancers	Disease
+8537983	2877	2883	cancer	Disease
+17415096	0	28	Oral squamous cell carcinoma	Disease
+17415096	52	58	cancer	Disease
+17415096	251	262	oral cancer	Disease
+17415096	481	509	oral squamous cell carcinoma	Disease
+17415096	704	710	cancer	Disease
+17415096	1191	1202	oral cancer	Disease
+17415096	1371	1382	oral cancer	Disease
+17415096	1616	1644	oral squamous cell carcinoma	Disease
+17415096	1831	1859	oral squamous cell carcinoma	Disease
+19222119	90	103	breast cancer	Disease
+19222119	217	230	breast cancer	Disease
+19222119	646	662	breast carcinoma	Disease
+19550292	58	74	various diseases	Disease
+19550292	190	196	cancer	Disease
+19550292	368	374	cancer	Disease
+19550292	463	475	osteosarcoma	Disease
+19550292	667	679	osteosarcoma	Disease
+19550292	788	800	osteosarcoma	Disease
+19550292	2045	2050	tumor	Disease
+22676449	124	132	Diabetes	Disease
+22676449	134	146	hypertension	Disease
+22676449	148	171	cardiovascular diseases	Disease
+22676449	173	210	oropharyngeal and oesophageal cancers	Disease
+22676449	322	339	systemic diseases	Disease
+22676449	386	398	inflammation	Disease
+22676449	464	481	systemic diseases	Disease
+22676449	551	563	inflammation	Disease
+22676449	1757	1769	inflammation	Disease
+22676449	2129	2141	inflammation	Disease
+22676449	2193	2205	inflammation	Disease
+22676449	2271	2288	systemic diseases	Disease
+15770206	43	76	cutaneous squamous cell carcinoma	Disease
+15770206	78	82	CSCC	Disease
+15770206	321	325	CSCC	Disease
+15770206	466	470	CSCC	Disease
+15770206	551	555	CSCC	Disease
+7884559	81	87	cancer	Disease
+7884559	204	218	carcinogenesis	Disease
+7884559	335	358	suppress carcinogenesis	Disease
+7884559	522	545	suppress carcinogenesis	Disease
+7884559	839	849	low cancer	Disease
+7884559	884	891	cancers	Disease
+7884559	1017	1040	suppress carcinogenesis	Disease
+7884559	1080	1086	cancer	Disease
+20129403	408	441	irritable bowel syndrome symptoms	Disease
+20129403	493	507	colonic cancer	Disease
+20129403	866	875	psoriasis	Disease
+20129403	880	886	eczema	Disease
+20129403	989	1001	hypertrophic	Disease
+8415125	71	76	tumor	Disease
+8415125	914	919	edema	Disease
+8415125	1331	1338	cancers	Disease
+23471851	103	110	obesity	Disease
+23471851	122	141	metabolic disorders	Disease
+23471851	227	261	soybean protein peptic hydrolysate	Disease
+23471851	263	266	SPH	Disease
+23471851	372	375	SPH	Disease
+23471851	439	442	SPH	Disease
+23471851	575	578	SPH	Disease
+23471851	615	618	SPH	Disease
+23471851	713	716	SPH	Disease
+23471851	1042	1045	SPH	Disease
+23471851	1114	1117	SPH	Disease
+23471851	1180	1183	SPH	Disease
+23471851	1264	1267	SPH	Disease
+23471851	1391	1394	SPH	Disease
+23471851	1468	1475	obesity	Disease
+23471851	1487	1506	metabolic disorders	Disease
+22895979	12	31	High blood pressure	Disease
+22895979	64	86	cardiovascular disease	Disease
+22895979	288	310	cardiovascular disease	Disease
+22895979	735	747	hypertension	Disease
+22895979	3514	3541	gastrointestinal complaints	Disease
+16011289	91	117	minimal change nephropathy	Disease
+16011289	119	122	MCN	Disease
+16011289	141	144	MCN	Disease
+16011289	534	545	proteinuria	Disease
+16011289	697	700	MCN	Disease
+14613266	126	146	rheumatoid arthritis	Disease
+14613266	148	150	RA	Disease
+14613266	522	524	RA	Disease
+14613266	858	860	RA	Disease
+14613266	1106	1108	RA	Disease
+14613266	1655	1657	RA	Disease
+14613266	1972	1974	RA	Disease
+14613266	2070	2072	RA	Disease
+14613266	2218	2220	RA	Disease
+14613266	2383	2385	RA	Disease
+19552815	76	103	reduction of blood pressure	Disease
+19552815	107	127	hypercholesterolemia	Disease
+22471470	176	184	diabetes	Disease
+22471470	212	224	inflammation	Disease
+22471470	230	255	gastrointestinal ailments	Disease
+22471470	1299	1312	breast cancer	Disease
+11010950	319	335	prostate cancers	Disease
+11010950	382	389	cancers	Disease
+11010950	433	448	stomach cancers	Disease
+11010950	620	626	cancer	Disease
+11010950	681	695	stomach cancer	Disease
+11010950	979	996	colorectal cancer	Disease
+11010950	1089	1103	stomach cancer	Disease
+11010950	1359	1366	cancers	Disease
+11010950	1435	1441	cancer	Disease
+11010950	1613	1631	colorectal cancers	Disease
+9121937	0	14	Gastric cancer	Disease
+9121937	28	34	cancer	Disease
+9121937	158	172	stomach cancer	Disease
+9121937	191	205	stomach cancer	Disease
+9121937	511	517	cancer	Disease
+9121937	1293	1307	stomach cancer	Disease
+9121937	1478	1492	stomach cancer	Disease
+17913418	389	395	oedema	Disease
+17913418	588	594	oedema	Disease
+17913418	800	806	oedema	Disease
+17913418	1073	1085	inflammation	Disease
+17913418	1280	1286	oedema	Disease
+17913418	1544	1561	inflammatory pain	Disease
+10955007	475	485	tooth loss	Disease
+8865119	77	88	lung cancer	Disease
+8865119	180	192	lung cancers	Disease
+8865119	211	225	adenocarcinoma	Disease
+8865119	541	547	cancer	Disease
+8865119	628	639	lung cancer	Disease
+8865119	708	719	lung cancer	Disease
+8865119	779	793	adenocarcinoma	Disease
+8865119	930	941	lung cancer	Disease
+8865119	1117	1128	lung cancer	Disease
+8865119	1269	1280	lung cancer	Disease
+8865119	1418	1424	cancer	Disease
+8865119	1569	1580	lung cancer	Disease
+8865119	1744	1755	lung cancer	Disease
+8865119	2079	2090	lung cancer	Disease
+19561384	62	79	colorectal cancer	Disease
+19561384	189	206	colorectal cancer	Disease
+19561384	362	379	colorectal cancer	Disease
+19561384	480	497	colorectal cancer	Disease
+19561384	827	844	colorectal cancer	Disease
+19561384	1109	1126	colorectal cancer	Disease
+23801107	332	338	cancer	Disease
+23801107	495	501	cancer	Disease
+23801107	651	657	cancer	Disease
+23801107	941	947	cancer	Disease
+23801107	1296	1302	cancer	Disease
+23801107	1537	1543	cancer	Disease
+3390851	0	11	Oral cancer	Disease
+3390851	89	95	cancer	Disease
+3390851	207	219	oral cancers	Disease
+3390851	394	405	oral cancer	Disease
+3390851	503	514	oral cancer	Disease
+22966340	152	167	colon carcinoma	Disease
+22966340	196	211	Colon carcinoma	Disease
+22966340	1200	1215	colon carcinoma	Disease
+22966340	1645	1660	colon carcinoma	Disease
+21933433	375	388	breast cancer	Disease
+21933433	1161	1167	cancer	Disease
+21933433	1626	1632	cancer	Disease
+20001818	68	93	substance abuse disorders	Disease
+20001818	163	169	deaths	Disease
+20001818	213	227	mental illness	Disease
+14602137	48	54	cancer	Disease
+14602137	147	153	cancer	Disease
+14602137	342	348	cancer	Disease
+14602137	413	419	cancer	Disease
+14602137	781	787	cancer	Disease
+14602137	987	993	cancer	Disease
+14602137	1087	1093	cancer	Disease
+14602137	1126	1132	cancer	Disease
+14602137	1165	1171	cancer	Disease
+14602137	1220	1227	cancers	Disease
+14602137	1318	1331	breast cancer	Disease
+14602137	1351	1357	cancer	Disease
+14602137	1377	1384	cancers	Disease
+14602137	1480	1486	cancer	Disease
+14602137	1590	1605	prostate cancer	Disease
+14602137	1701	1715	overall cancer	Disease
+14602137	1920	1926	cancer	Disease
+14602137	1961	1972	lung cancer	Disease
+14602137	2016	2023	cancers	Disease
+14602137	2228	2282	cancer in general and colorectal and prostatic cancers	Disease
+14602137	2339	2345	cancer	Disease
+19625686	128	145	infectious agents	Disease
+19625686	234	243	pneumonia	Disease
+19625686	328	333	death	Disease
+19625686	339	348	pneumonia	Disease
+19625686	683	689	cancer	Disease
+19625686	691	712	myocardial infarction	Disease
+19625686	714	720	stroke	Disease
+19625686	875	880	death	Disease
+19625686	886	895	pneumonia	Disease
+19625686	995	1004	pneumonia	Disease
+19625686	1040	1045	death	Disease
+19625686	1051	1060	pneumonia	Disease
+19625686	1458	1463	death	Disease
+19625686	1469	1478	pneumonia	Disease
+21291361	125	137	hypertension	Disease
+21291361	572	591	protocatechuic acid	Disease
+21291361	593	596	PCA	Disease
+21291361	627	630	PCA	Disease
+21291361	847	862	atherosclerosis	Disease
+21291361	1136	1150	hyperammonemia	Disease
+21291361	1152	1155	PCA	Disease
+21291361	1304	1310	cancer	Disease
+21291361	1341	1349	leukemia	Disease
+21291361	1354	1368	gastric cancer	Disease
+21291361	1466	1486	diabetic nephropathy	Disease
+21291361	1587	1602	atherosclerosis	Disease
+21291361	1604	1617	liver disease	Disease
+21291361	1619	1625	cancer	Disease
+21291361	1627	1635	diabetes	Disease
+21291361	1646	1665	metabolic syndromes	Disease
+19639212	164	178	gastric cancer	Disease
+19639212	1279	1293	gastric cancer	Disease
+11115792	123	147	type 1 diabetes mellitus	Disease
+11115792	177	198	neurological diseases	Disease
+11115792	382	406	type 1 diabetes mellitus	Disease
+11115792	441	465	type 1 diabetes mellitus	Disease
+11115792	467	486	cow's milk proteins	Disease
+11115792	714	753	cow's milk and type 1 diabetes mellitus	Disease
+11115792	773	792	cow's milk proteins	Disease
+11115792	904	912	diabetes	Disease
+11115792	1301	1311	infections	Disease
+11115792	1379	1403	type 1 diabetes mellitus	Disease
+11115792	1412	1431	cow's milk proteins	Disease
+11115792	1473	1485	autoimmunity	Disease
+11115792	1608	1620	autoimmunity	Disease
+21750018	0	13	Hyperglycemia	Disease
+21750018	135	155	diabetic retinopathy	Disease
+21750018	382	400	aging eye diseases	Disease
+21750018	526	534	diabetes	Disease
+21750018	690	719	thickness of the whole retina	Disease
+21750018	809	834	retinal pigment epithelia	Disease
+21750018	836	839	RPE	Disease
+21750018	1497	1500	RPE	Disease
+21750018	2177	2185	diabetic	Disease
+20331351	193	198	tumor	Disease
+20331351	203	218	atherosclerosis	Disease
+20331351	835	847	cytotoxicity	Disease
+20331351	906	918	fibrosarcoma	Disease
+20331351	932	937	tumor	Disease
+20331351	938	946	necrosis	Disease
+20331351	1242	1254	Cytotoxicity	Disease
+20331351	1295	1307	fibrosarcoma	Disease
+23325103	114	137	gastrointestinal cancer	Disease
+23325103	139	161	cardiovascular disease	Disease
+23325103	166	174	diabetes	Disease
+23325103	336	352	diabetic disease	Disease
+23325103	445	453	diabetes	Disease
+23325103	767	775	diabetes	Disease
+8824512	45	51	cancer	Disease
+8824512	1264	1294	addition to growth suppression	Disease
+8824512	1411	1416	tumor	Disease
+8824512	1541	1547	cancer	Disease
+8824512	1886	1899	tumorigenesis	Disease
+8824512	2165	2171	cancer	Disease
+11765176	54	80	cancer death certification	Disease
+11765176	156	162	cancer	Disease
+11765176	227	233	cancer	Disease
+11765176	353	362	neoplasms	Disease
+11765176	673	684	lung cancer	Disease
+11765176	807	813	deaths	Disease
+11765176	830	841	lung cancer	Disease
+11765176	927	938	lung cancer	Disease
+11765176	939	945	deaths	Disease
+11765176	1104	1115	lung cancer	Disease
+11765176	1143	1160	Intestinal cancer	Disease
+11765176	1265	1278	breast cancer	Disease
+11765176	1296	1305	neoplasms	Disease
+11765176	1365	1374	neoplasms	Disease
+11765176	1473	1492	Hodgkin's lymphomas	Disease
+11765176	1519	1525	cancer	Disease
+11765176	1638	1647	neoplasms	Disease
+11765176	1724	1730	cancer	Disease
+11765176	1789	1802	breast cancer	Disease
+11765176	1846	1855	neoplasms	Disease
+22706885	51	57	cancer	Disease
+22706885	129	141	malignancies	Disease
+22706885	196	202	cancer	Disease
+22706885	273	279	cancer	Disease
+22706885	323	329	cancer	Disease
+22706885	531	537	cancer	Disease
+22706885	581	587	cancer	Disease
+22706885	724	731	cancers	Disease
+22706885	865	887	acute myeloid leukemia	Disease
+22706885	921	927	cancer	Disease
+22706885	1069	1075	cancer	Disease
+22706885	1130	1136	cancer	Disease
+22706885	1217	1223	cancer	Disease
+22706885	1265	1271	cancer	Disease
+22706885	1377	1383	cancer	Disease
+22706885	1426	1432	cancer	Disease
+22706885	1505	1511	cancer	Disease
+22706885	1573	1579	cancer	Disease
+22706885	1633	1639	cancer	Disease
+22706885	1716	1722	cancer	Disease
+22706885	1944	1950	cancer	Disease
+20699592	506	518	constipation	Disease
+20699592	562	570	diarrhea	Disease
+20699592	614	622	diarrhea	Disease
+20699592	1223	1235	constipation	Disease
+21199169	50	56	cancer	Disease
+21199169	206	223	colorectal polyps	Disease
+21199169	248	254	cancer	Disease
+21199169	817	830	growth arrest	Disease
+21199169	1057	1073	PC-9 lung cancer	Disease
+21199169	1160	1186	non-small cell lung cancer	Disease
+8391063	58	75	epithelial cancer	Disease
+8391063	118	132	carcinogenesis	Disease
+8391063	217	223	cancer	Disease
+8391063	321	332	lung cancer	Disease
+8391063	454	465	lung cancer	Disease
+8391063	770	784	primary tumors	Disease
+8391063	908	921	primary tumor	Disease
+8391063	980	994	primary tumors	Disease
+8391063	1093	1107	primary tumors	Disease
+8391063	1324	1352	primary tumor classification	Disease
+8391063	1491	1505	primary tumors	Disease
+8391063	1615	1634	stage I lung cancer	Disease
+23139132	28	42	oleanolic acid	Disease
+23139132	44	46	OA	Disease
+23139132	138	146	toxicity	Disease
+23139132	183	185	OA	Disease
+23139132	612	614	OA	Disease
+23139132	746	748	OA	Disease
+23139132	759	761	OA	Disease
+23139132	934	936	OA	Disease
+9091843	121	142	prostatic hyperplasia	Disease
+9091843	894	915	prostatic hyperplasia	Disease
+23590152	109	131	cardiovascular disease	Disease
+23590152	136	148	inflammation	Disease
+23590152	152	172	hypercholesterolemic	Disease
+23590152	727	735	ischemia	Disease
+23590152	799	810	aortic flow	Disease
+23590152	812	814	AF	Disease
+23590152	908	926	Myocardial infarct	Disease
+23590152	1508	1515	infarct	Disease
+23590152	1708	1728	hypercholesterolemic	Disease
+19994684	175	193	cardiac arrhythmia	Disease
+19994684	231	249	cardiac arrhythmia	Disease
+19994684	598	616	cardiac arrhythmia	Disease
+19994684	1267	1285	cardiac arrhythmia	Disease
+21972295	169	191	tuberculosis infection	Disease
+21972295	269	281	tuberculosis	Disease
+21972295	369	381	tuberculosis	Disease
+21972295	455	467	tuberculosis	Disease
+21972295	490	502	tuberculosis	Disease
+21972295	780	792	tuberculosis	Disease
+21972295	837	843	deaths	Disease
+21972295	849	861	tuberculosis	Disease
+21972295	1013	1025	tuberculosis	Disease
+21972295	1070	1076	deaths	Disease
+21972295	1262	1274	tuberculosis	Disease
+21972295	1337	1347	aggressive	Disease
+21972295	1485	1491	deaths	Disease
+21972295	1497	1509	tuberculosis	Disease
+21972295	1681	1687	deaths	Disease
+21972295	1693	1705	tuberculosis	Disease
+21972295	1785	1797	tuberculosis	Disease
+21972295	1808	1814	deaths	Disease
+21972295	1871	1883	tuberculosis	Disease
+21972295	1954	1960	deaths	Disease
+21972295	1966	1978	tuberculosis	Disease
+16500554	71	78	colitis	Disease
+16500554	90	102	colon cancer	Disease
+16500554	209	224	chronic colitis	Disease
+16500554	241	248	colitis	Disease
+16500554	551	558	colitis	Disease
+16500554	631	638	colitis	Disease
+16500554	723	730	colitis	Disease
+16500554	858	867	Dysplasia	Disease
+16500554	1098	1105	Colitis	Disease
+16500554	1376	1391	chronic colitis	Disease
+16500554	1396	1403	colitis	Disease
+16500554	1515	1524	neoplasia	Disease
+16500554	1541	1556	chronic colitis	Disease
+20138903	153	177	cardiovascular disorders	Disease
+20138903	179	187	diabetes	Disease
+20138903	189	196	obesity	Disease
+20138903	201	228	neurodegenerative disorders	Disease
+8111215	33	38	tumor	Disease
+8111215	171	176	tumor	Disease
+8111215	268	273	tumor	Disease
+8111215	365	370	tumor	Disease
+24672557	253	271	long bone fracture	Disease
+24672557	364	382	long bone fracture	Disease
+24672557	1761	1769	fracture	Disease
+24672557	1860	1868	fracture	Disease
+22648725	81	97	chronic diseases	Disease
+22648725	113	135	cardiovascular disease	Disease
+22648725	137	140	CVD	Disease
+22648725	390	396	Cancer	Disease
+22648725	670	673	CVD	Disease
+22648725	675	681	cancer	Disease
+22648725	827	833	deaths	Disease
+22648725	880	883	CVD	Disease
+22648725	884	890	deaths	Disease
+22648725	896	902	cancer	Disease
+22648725	903	909	deaths	Disease
+22648725	919	925	deaths	Disease
+22648725	953	959	deaths	Disease
+22648725	1195	1198	CVD	Disease
+22648725	1393	1396	CVD	Disease
+22648725	1470	1476	cancer	Disease
+22648725	1599	1602	CVD	Disease
+8439494	78	104	Italy on gastric carcinoma	Disease
+8439494	178	192	gastric cancer	Disease
+8439494	274	288	carcinogenesis	Disease
+8439494	359	365	tumour	Disease
+8439494	665	671	cancer	Disease
+8439494	948	954	cancer	Disease
+9464471	191	212	arterial hypertension	Disease
+9464471	692	713	arterial hypertension	Disease
+9464471	1157	1169	hypertension	Disease
+10943000	91	100	hepatitis	Disease
+10943000	102	111	Hepatitis	Disease
+10943000	827	836	hepatitis	Disease
+20233001	114	122	ischemia	Disease
+20233001	222	230	ischemia	Disease
+20233001	305	343	intestinal ischemia-reperfusion injury	Disease
+20233001	510	529	intestinal ischemia	Disease
+20233001	730	738	ischemia	Disease
+20233001	813	835	total oxidative status	Disease
+20233001	837	840	TOS	Disease
+20233001	1204	1207	TOS	Disease
+20233001	1299	1302	TOS	Disease
+20233001	1330	1356	Histological tissue damage	Disease
+20233001	1517	1555	intestinal ischemia-reperfusion injury	Disease
+9625398	446	466	hypercholesterolemia	Disease
+9625398	1887	1907	hypercholesterolemia	Disease
+21849094	677	692	prostate cancer	Disease
+21849094	779	809	impaired reproductive capacity	Disease
+21849094	941	956	prostate cancer	Disease
+21849094	1144	1150	tumour	Disease
+21849094	1393	1401	toxicity	Disease
+21849094	1616	1631	prostate cancer	Disease
+23265703	47	53	cancer	Disease
+23265703	230	237	cancers	Disease
+23265703	291	297	cancer	Disease
+23265703	357	364	cancers	Disease
+23265703	641	648	cancers	Disease
+23265703	873	887	overall cancer	Disease
+23265703	930	941	lung cancer	Disease
+23265703	1172	1178	cancer	Disease
+23265703	1297	1314	Colorectal cancer	Disease
+23265703	1478	1491	breast cancer	Disease
+23265703	1652	1667	Cervical cancer	Disease
+23265703	1897	1904	cancers	Disease
+23265703	1965	1972	cancers	Disease
+23265703	1997	2011	overall cancer	Disease
+23265703	2058	2064	cancer	Disease
+18030357	102	117	prostate cancer	Disease
+18030357	133	138	tumor	Disease
+18030357	169	183	adenocarcinoma	Disease
+18030357	559	564	tumor	Disease
+18030357	565	573	necrosis	Disease
+18030357	777	785	Deletion	Disease
+18030357	957	972	prostate tumors	Disease
+18030357	1046	1052	tumors	Disease
+18030357	1081	1096	prostate tumors	Disease
+18030357	1225	1240	prostate cancer	Disease
+18030357	1390	1405	prostate cancer	Disease
+15337553	149	158	mucositis	Disease
+15337553	162	182	head-and-neck cancer	Disease
+15337553	233	253	head-and-neck cancer	Disease
+15337553	502	511	mucositis	Disease
+15337553	791	799	toxicity	Disease
+15337553	830	839	mucositis	Disease
+15337553	879	890	weight loss	Disease
+15337553	899	903	pain	Disease
+15337553	945	955	infections	Disease
+15337553	1307	1316	mucositis	Disease
+19556852	51	57	cancer	Disease
+19556852	395	401	cancer	Disease
+19556852	552	571	skin carcinogenesis	Disease
+19556852	633	646	tumorigenesis	Disease
+19556852	682	688	tumors	Disease
+19556852	703	708	tumor	Disease
+19556852	1381	1394	tumorigenesis	Disease
+19556852	1643	1654	skin cancer	Disease
+18982874	239	261	cardiovascular disease	Disease
+18982874	959	984	reduction in sudden death	Disease
+18982874	1000	1013	cardiac death	Disease
+18982874	1304	1318	cardiac events	Disease
+18982874	1504	1525	myocardial infarction	Disease
+18982874	1530	1544	coronary death	Disease
+18982874	1890	1904	cardiac deaths	Disease
+18982874	1995	2009	cardiac events	Disease
+18982874	2097	2119	cardiovascular disease	Disease
+12223422	104	117	breast cancer	Disease
+12223422	257	270	breast cancer	Disease
+12223422	423	436	breast cancer	Disease
+12223422	812	825	breast cancer	Disease
+12223422	1262	1275	breast cancer	Disease
+12223422	1468	1481	breast cancer	Disease
+12223422	1827	1840	breast cancer	Disease
+12223422	2044	2057	breast cancer	Disease
+1466630	47	67	respiratory symptoms	Disease
+1466630	230	250	respiratory symptoms	Disease
+1466630	786	796	byssinosis	Disease
+1466630	925	945	respiratory symptoms	Disease
+1466630	950	984	impairment of ventilatory capacity	Disease
+21095205	127	138	Influenza A	Disease
+21095205	505	516	Influenza A	Disease
+21095205	832	841	infection	Disease
+21095205	951	960	infection	Disease
+7676710	137	149	colon cancer	Disease
+7676710	430	441	colon tumor	Disease
+7676710	665	677	colon cancer	Disease
+7676710	799	804	tumor	Disease
+7676710	865	877	colon cancer	Disease
+7676710	953	958	tumor	Disease
+7676710	1083	1089	tumors	Disease
+7676710	1258	1271	colon cancers	Disease
+15199009	438	444	cancer	Disease
+9806160	324	334	lung tumor	Disease
+9806160	712	732	increased lung tumor	Disease
+9806160	757	763	tumors	Disease
+9806160	820	826	tumors	Disease
+9806160	1003	1013	lung tumor	Disease
+9806160	1247	1270	reduction in lung tumor	Disease
+9806160	1351	1361	lung tumor	Disease
+9806160	1495	1513	lung tumorigenesis	Disease
+8183725	81	95	carcinogenesis	Disease
+8183725	168	174	tumors	Disease
+8183725	292	297	tumor	Disease
+8183725	313	318	tumor	Disease
+8183725	444	450	tumors	Disease
+8183725	478	503	hepatocellular carcinomas	Disease
+8183725	597	610	kidney tumors	Disease
+8183725	666	678	liver tumors	Disease
+8183725	787	801	carcinogenesis	Disease
+23755843	140	149	hepatitis	Disease
+23755843	154	166	liver cancer	Disease
+23755843	329	343	liver diseases	Disease
+23755843	522	531	hepatitis	Disease
+23755843	554	566	liver cancer	Disease
+23755843	747	759	inflammation	Disease
+23755843	961	970	hepatitis	Disease
+23755843	1383	1392	hepatitis	Disease
+23755843	1397	1417	liver carcinogenesis	Disease
+23755843	1531	1540	hepatitis	Disease
+23755843	1545	1565	liver carcinogenesis	Disease
+21685250	76	109	cutaneous squamous cell carcinoma	Disease
+21685250	628	639	skin cancer	Disease
+21685250	1474	1481	cancers	Disease
+20110285	28	41	breast cancer	Disease
+20110285	133	146	breast cancer	Disease
+20110285	218	224	cancer	Disease
+20110285	406	413	cancers	Disease
+20110285	466	479	breast cancer	Disease
+20110285	587	600	breast cancer	Disease
+20110285	734	747	breast cancer	Disease
+20110285	882	900	chromosomal breaks	Disease
+20110285	970	983	breast cancer	Disease
+20110285	1154	1167	breast cancer	Disease
+20110285	1191	1207	hypersensitivity	Disease
+20110285	1268	1281	breast cancer	Disease
+20110285	1477	1490	breast cancer	Disease
+20110285	1584	1597	breast cancer	Disease
+8582833	18	47	multilocular malignant tumors	Disease
+8582833	110	125	marijuana abuse	Disease
+8582833	236	244	cannabis	Disease
+8582833	308	331	squamous cell carcinoma	Disease
+8582833	375	385	metastases	Disease
+8582833	390	404	adenocarcinoma	Disease
+8582833	443	467	hepatocellular carcinoma	Disease
+8582833	545	561	malignant tumors	Disease
+8582833	661	669	cannabis	Disease
+23326120	85	93	fibrosis	Disease
+23326120	279	287	fibrosis	Disease
+23326120	1340	1348	fibrosis	Disease
+12954453	167	186	Alzheimer's disease	Disease
+12954453	313	333	cognitive impairment	Disease
+12954453	1323	1342	Alzheimer's disease	Disease
+10971235	80	97	colorectal cancer	Disease
+10971235	150	167	colorectal cancer	Disease
+10971235	336	350	colonic cancer	Disease
+10971235	1562	1574	colon cancer	Disease
+24948862	552	573	gingival inflammation	Disease
+24948862	1402	1412	gingivitis	Disease
+24948862	1470	1500	reduction in gingival bleeding	Disease
+24948862	1809	1830	gingival inflammation	Disease
+24948862	1835	1843	bleeding	Disease
+12713779	100	125	abdominal aortic aneurysm	Disease
+12713779	127	130	AAA	Disease
+12713779	229	256	juxta-anastomotic aneurysms	Disease
+12713779	282	285	AAA	Disease
+12713779	400	403	AAA	Disease
+12713779	646	673	juxta-anastomotic aneurysms	Disease
+12713779	792	804	hypertension	Disease
+12713779	910	925	iliac aneurysms	Disease
+12713779	980	1007	juxta-anastomotic aneurysms	Disease
+12713779	1086	1111	abdominal aortic aneurysm	Disease
+12713779	1133	1145	hypertension	Disease
+12713779	1211	1220	aneurysms	Disease
+12713779	1281	1297	aneurysm rupture	Disease
+12209964	55	69	stomach cancer	Disease
+12209964	230	244	stomach cancer	Disease
+12209964	486	500	stomach cancer	Disease
+12209964	501	507	deaths	Disease
+12209964	1320	1340	gastroduodenal ulcer	Disease
+12209964	1581	1595	stomach cancer	Disease
+12209964	1596	1602	deaths	Disease
+12209964	1752	1766	stomach cancer	Disease
+12209964	1870	1884	stomach cancer	Disease
+12209964	1906	1912	cancer	Disease
+19579948	126	139	neurotoxicity	Disease
+19579948	465	477	hypothalamus	Disease
+19579948	853	865	hypothalamus	Disease
+19579948	2069	2077	toxicity	Disease
+20021021	0	17	Colorectal cancer	Disease
+20021021	115	121	cancer	Disease
+20021021	292	304	colon cancer	Disease
+20021021	542	556	carcinogenesis	Disease
+20021021	1131	1145	carcinogenesis	Disease
+20021021	1495	1507	colon cancer	Disease
+11440071	67	73	cancer	Disease
+11440071	966	972	cancer	Disease
+22257133	26	42	bipolar disorder	Disease
+22257133	44	46	BD	Disease
+22257133	314	316	BD	Disease
+22257133	427	429	BD	Disease
+22257133	450	460	dependence	Disease
+22257133	603	613	dependence	Disease
+22257133	969	975	cancer	Disease
+22257133	1125	1138	mood disorder	Disease
+22257133	1313	1315	BD	Disease
+20011028	117	122	tumor	Disease
+20011028	277	283	cancer	Disease
+8710689	532	544	colon tumors	Disease
+8710689	584	596	colon tumors	Disease
+8710689	601	606	tumor	Disease
+8710689	673	678	tumor	Disease
+8710689	702	708	tumors	Disease
+8710689	851	856	tumor	Disease
+8710689	881	887	tumors	Disease
+8710689	1041	1053	colon tumors	Disease
+8710689	1217	1241	intestinal tumorigenesis	Disease
+21105694	48	61	hyperglycemia	Disease
+21105694	231	242	weight gain	Disease
+21105694	329	342	hyperglycemia	Disease
+21105694	782	795	hyperglycemia	Disease
+23830446	61	75	baker's asthma	Disease
+23830446	110	121	anaphylaxis	Disease
+23830446	123	140	atopic dermatitis	Disease
+15671634	80	103	acute mountain sickness	Disease
+15671634	551	558	hypoxia	Disease
+15671634	936	943	hypoxia	Disease
+15671634	1043	1050	hypoxia	Disease
+15671634	1236	1243	hypoxia	Disease
+7950842	51	57	tumour	Disease
+7950842	75	89	oral carcinoma	Disease
+7950842	236	250	tumorigenicity	Disease
+7950842	277	283	tumour	Disease
+7950842	387	393	tumour	Disease
+7950842	581	587	tumour	Disease
+7950842	679	691	mice tumours	Disease
+7950842	892	904	mice tumours	Disease
+7950842	954	966	mice tumours	Disease
+7950842	1191	1198	tumours	Disease
+7950842	1451	1457	tumour	Disease
+7950842	1716	1722	tumour	Disease
+7950842	1787	1793	tumour	Disease
+7950842	1891	1906	oral carcinomas	Disease
+21197427	0	17	Cerebral ischemia	Disease
+21197427	38	50	brain damage	Disease
+21197427	63	99	behavioral deficits including memory	Disease
+21197427	216	228	brain damage	Disease
+21197427	413	425	brain damage	Disease
+21197427	430	461	brain damage and memory deficit	Disease
+21197427	479	496	cerebral ischemia	Disease
+21197427	648	657	occlusion	Disease
+21197427	661	689	right middle cerebral artery	Disease
+21197427	1516	1533	cerebral ischemia	Disease
+2996118	120	146	gastric and duodenal ulcer	Disease
+2996118	338	351	gastric ulcer	Disease
+2996118	402	428	gastric and duodenal ulcer	Disease
+2996118	459	464	ulcer	Disease
+2996118	607	628	gastric ulcer disease	Disease
+18537182	106	118	liver cancer	Disease
+18537182	217	229	liver cancer	Disease
+18537182	372	384	liver cancer	Disease
+18537182	481	487	cancer	Disease
+18537182	636	648	liver cancer	Disease
+18537182	729	763	diabetes and chronic liver disease	Disease
+18537182	837	849	liver cancer	Disease
+18537182	1157	1169	liver cancer	Disease
+18537182	1352	1364	liver cancer	Disease
+18537182	1518	1523	obese	Disease
+18537182	1796	1808	liver cancer	Disease
+18537182	1865	1877	liver cancer	Disease
+20182037	113	132	Alzheimer's disease	Disease
+20182037	134	136	AD	Disease
+20182037	185	187	AD	Disease
+20182037	308	310	AD	Disease
+20182037	316	336	cognitive impairment	Disease
+20182037	341	343	AD	Disease
+20182037	355	357	AD	Disease
+20182037	464	481	memory impairment	Disease
+20182037	576	578	AD	Disease
+20182037	631	633	AD	Disease
+20182037	823	825	AD	Disease
+20182037	954	956	AD	Disease
+20182037	1021	1023	AD	Disease
+20182037	1256	1258	AD	Disease
+20182037	1779	1781	AD	Disease
+20182037	1864	1866	AD	Disease
+16750122	79	85	asthma	Disease
+16750122	123	129	asthma	Disease
+16750122	213	232	rhinoconjunctivitis	Disease
+16750122	256	270	pollen allergy	Disease
+16750122	280	286	asthma	Disease
+16750122	341	360	rhinoconjunctivitis	Disease
+16750122	365	371	asthma	Disease
+16750122	445	451	asthma	Disease
+16750122	1548	1562	pollen allergy	Disease
+16750122	1798	1812	carrot allergy	Disease
+16750122	1814	1831	Allergy to carrot	Disease
+16750122	1872	1879	allergy	Disease
+16750122	2016	2030	pollen allergy	Disease
+19353489	228	233	fever	Disease
+19353489	238	255	skin inflammation	Disease
+19353489	456	464	pleurisy	Disease
+19353489	1317	1325	pleurisy	Disease
+20032398	111	117	cancer	Disease
+20032398	195	201	cancer	Disease
+20032398	240	258	squamous carcinoma	Disease
+20032398	834	849	B-cell lymphoma	Disease
+20032398	886	894	lymphoma	Disease
+20032398	895	903	leukemia	Disease
+20032398	1295	1301	cancer	Disease
+24618914	103	110	obesity	Disease
+24618914	115	123	diabetes	Disease
+24618914	543	550	obesity	Disease
+24618914	1343	1365	increased ATP turnover	Disease
+24618914	1518	1525	obesity	Disease
+24618914	1527	1539	inflammation	Disease
+24618914	1746	1754	diabetes	Disease
+20136429	124	135	lung cancer	Disease
+20136429	174	179	tumor	Disease
+20136429	277	282	tumor	Disease
+20136429	581	592	lung cancer	Disease
+20136429	647	655	toxicity	Disease
+20136429	777	787	lung tumor	Disease
+18206417	21	44	squamous cell carcinoma	Disease
+18206417	115	122	cancers	Disease
+18206417	212	217	tumor	Disease
+18206417	218	226	necrosis	Disease
+18206417	319	333	oral carcinoma	Disease
+18206417	515	525	carcinomas	Disease
+18206417	1483	1506	squamous cell carcinoma	Disease
+8983097	197	208	lung cancer	Disease
+8983097	334	340	cancer	Disease
+8983097	421	443	basal cell hyperplasia	Disease
+8983097	1146	1157	lung cancer	Disease
+8983097	1353	1364	lung cancer	Disease
+8983097	1483	1494	lung cancer	Disease
+19545487	61	95	cardiovascular and cancer diseases	Disease
+19545487	840	846	cancer	Disease
+19545487	852	867	atherosclerosis	Disease
+19545487	947	959	inflammation	Disease
+19676128	78	99	chronic liver disease	Disease
+19676128	179	192	liver disease	Disease
+19676128	234	243	hepatitis	Disease
+19676128	254	267	liver disease	Disease
+19676128	341	352	Hepatitis C	Disease
+19676128	391	400	Cirrhosis	Disease
+19676128	424	433	hepatitis	Disease
+19676128	453	461	fibrosis	Disease
+19676128	465	474	cirrhosis	Disease
+19676128	675	684	cirrhosis	Disease
+19676128	714	722	fibrosis	Disease
+19676128	822	831	steatosis	Disease
+19676128	1563	1572	cirrhosis	Disease
+19676128	1709	1718	hepatitis	Disease
+19676128	1729	1742	liver disease	Disease
+21840559	137	157	colon adenocarcinoma	Disease
+22272893	161	167	cancer	Disease
+22272893	169	182	female cancer	Disease
+22272893	184	221	chronic obstructive pulmonary disease	Disease
+22272893	226	251	ischemic vascular disease	Disease
+22272893	602	615	female cancer	Disease
+22272893	619	644	ischemic vascular disease	Disease
+22272893	1094	1100	cancer	Disease
+22272893	1102	1115	female cancer	Disease
+22272893	1117	1154	chronic obstructive pulmonary disease	Disease
+22272893	1159	1184	ischemic vascular disease	Disease
+8357273	75	92	esophageal cancer	Disease
+8357273	113	130	esophageal cancer	Disease
+8357273	202	210	asbestos	Disease
+8357273	334	340	cancer	Disease
+8357273	564	581	esophageal cancer	Disease
+8357273	932	949	esophageal cancer	Disease
+15042305	482	502	head and neck cancer	Disease
+15042305	646	663	chronic infection	Disease
+15042305	800	809	dysplasia	Disease
+15042305	827	836	carcinoma	Disease
+15042305	906	912	cancer	Disease
+15042305	1050	1056	cancer	Disease
+19858733	112	134	cardiovascular disease	Disease
+19858733	201	223	cardiovascular disease	Disease
+19858733	990	1014	cardiovascular mortality	Disease
+19858733	1144	1166	coronary heart disease	Disease
+19017194	12	28	Chronic diarrhea	Disease
+19017194	247	273	inflammatory bowel disease	Disease
+19017194	311	319	diarrhea	Disease
+19017194	479	487	diarrhea	Disease
+19017194	550	558	diarrhea	Disease
+19017194	843	851	diarrhea	Disease
+19017194	974	982	diarrhea	Disease
+10500021	110	119	cataracts	Disease
+10500021	378	386	cataract	Disease
+10500021	730	745	senile cataract	Disease
+10500021	820	828	cataract	Disease
+10500021	1165	1173	cataract	Disease
+10500021	1391	1399	cataract	Disease
+10500021	1461	1470	cataracts	Disease
+15358907	117	124	cancers	Disease
+15358907	178	184	cancer	Disease
+15358907	431	446	premature death	Disease
+15358907	514	523	addiction	Disease
+12055740	47	53	cancer	Disease
+12055740	100	111	lung cancer	Disease
+12055740	219	225	cancer	Disease
+12055740	274	314	International Classification of Diseases	Disease
+12055740	316	319	ICD	Disease
+12055740	432	437	death	Disease
+12055740	457	462	death	Disease
+12055740	808	825	pharyngeal cancer	Disease
+12055740	876	892	laryngeal cancer	Disease
+12055740	1101	1112	lung cancer	Disease
+12055740	1124	1137	larynx cancer	Disease
+12055740	1149	1166	esophageal cancer	Disease
+12055740	1194	1211	pharyngeal cancer	Disease
+12055740	1288	1299	lung cancer	Disease
+12055740	1534	1540	cancer	Disease
+12055740	1626	1632	cancer	Disease
+12055740	1738	1755	carotenoid intake	Disease
+12055740	1779	1784	toxic	Disease
+12055740	1889	1895	cancer	Disease
+22489319	150	167	cerebral ischemia	Disease
+22489319	270	276	trauma	Disease
+22489319	454	460	Trauma	Disease
+22489319	477	491	neuronal death	Disease
+22489319	572	577	death	Disease
+22489319	630	638	toxicity	Disease
+22489319	856	869	neuronal loss	Disease
+22489319	989	995	trauma	Disease
+22489319	1102	1108	trauma	Disease
+22489319	1134	1142	toxicity	Disease
+22489319	1194	1201	gliosis	Disease
+22489319	1228	1234	trauma	Disease
+23317220	290	303	breast cancer	Disease
+23317220	790	797	obesity	Disease
+23317220	820	833	breast cancer	Disease
+23317220	838	843	obese	Disease
+23317220	888	903	various cancers	Disease
+23317220	972	979	obesity	Disease
+23317220	988	998	malignancy	Disease
+7672072	40	56	laryngeal cancer	Disease
+7672072	404	420	laryngeal cancer	Disease
+7672072	562	578	laryngeal cancer	Disease
+7672072	684	700	laryngeal cancer	Disease
+10485439	48	60	colon cancer	Disease
+10485439	262	274	colon cancer	Disease
+10485439	702	707	tumor	Disease
+10485439	779	784	tumor	Disease
+10485439	879	899	colon carcinogenesis	Disease
+10485439	901	920	aberrant crypt foci	Disease
+10485439	922	925	ACF	Disease
+10485439	999	1004	tumor	Disease
+10485439	1162	1167	tumor	Disease
+10485439	1214	1217	ACF	Disease
+10485439	1543	1548	tumor	Disease
+10485439	1646	1651	tumor	Disease
+10485439	1689	1692	ACF	Disease
+17012261	163	183	head and neck cancer	Disease
+17012261	2235	2255	head and neck cancer	Disease
+16091758	53	77	hepatocellular carcinoma	Disease
+16091758	79	82	HCC	Disease
+16091758	152	158	Cancer	Disease
+16091758	472	475	HCC	Disease
+16091758	606	633	diabetes and liver diseases	Disease
+16091758	683	688	death	Disease
+16091758	696	699	HCC	Disease
+16091758	1009	1012	HCC	Disease
+9060235	137	144	cancers	Disease
+9060235	184	191	cancers	Disease
+9060235	331	337	cancer	Disease
+9060235	436	443	cancers	Disease
+9060235	457	464	cancers	Disease
+9060235	474	497	precancerous conditions	Disease
+9060235	562	568	cancer	Disease
+9060235	671	684	breast cancer	Disease
+9060235	689	700	oral cancer	Disease
+20155621	733	744	lung cancer	Disease
+20155621	866	891	colon and prostate tumors	Disease
+20155621	966	981	prostate cancer	Disease
+20155621	1146	1152	cancer	Disease
+22683493	106	114	asthenia	Disease
+22683493	249	253	type	Disease
+22683493	256	264	diabetes	Disease
+22683493	358	376	metabolic syndrome	Disease
+22683493	381	385	type	Disease
+22683493	388	396	diabetes	Disease
+22683493	428	436	diabetic	Disease
+22683493	622	635	hyperglycemia	Disease
+22683493	666	686	hypertriglyceridemia	Disease
+22683493	1405	1418	hyperglycemia	Disease
+22683493	1455	1475	hypertriglyceridemia	Disease
+22683493	1604	1622	metabolic syndrome	Disease
+22683493	1627	1631	type	Disease
+22683493	1634	1642	diabetes	Disease
+22683493	1800	1808	asthenia	Disease
+9536163	441	446	death	Disease
+9536163	742	764	occupational accidents	Disease
+9536163	867	872	death	Disease
+9536163	880	891	lung cancer	Disease
+9536163	893	907	heart diseases	Disease
+9536163	1204	1215	lung cancer	Disease
+9536163	1220	1234	heart diseases	Disease
+1423310	94	104	papillomas	Disease
+1423310	302	307	tumor	Disease
+1423310	328	354	inhibition of tumor growth	Disease
+1423310	382	387	tumor	Disease
+1423310	448	474	inhibition of tumor growth	Disease
+1423310	750	755	tumor	Disease
+1423310	789	798	papilloma	Disease
+1423310	947	956	papilloma	Disease
+1423310	1023	1028	tumor	Disease
+1423310	1312	1322	papillomas	Disease
+1859018	0	23	Atrial tachyarrhythmias	Disease
+1859018	64	72	toxicity	Disease
+1859018	79	90	arrhythmias	Disease
+1859018	116	128	automaticity	Disease
+1859018	252	275	ventricular arrhythmias	Disease
+1859018	308	326	atrial arrhythmias	Disease
+1859018	443	455	automaticity	Disease
+1859018	510	522	automaticity	Disease
+1859018	554	577	atrial tachyarrhythmias	Disease
+1859018	624	636	automaticity	Disease
+1859018	679	702	atrial tachyarrhythmias	Disease

@@ -1,0 +1,4 @@
+__pycache__
+*.idea
+corpora
+evaluation/spacy_*
