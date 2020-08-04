@@ -183,11 +183,10 @@ if __name__ == "__main__":
     check_annotations(text_file, gold_file)
     check_annotations(text_file, pred_file)
 
-    print("Exact matching results:")
-    result = evaluate(gold_file, pred_file, exact_match)
-    print_results("EXACT", result)
+    # print("Exact matching results:")
+    # result = evaluate(gold_file, pred_file, exact_match)
+    # print_results("EXACT", result)
 
-    print("#" * 25)
     print("Partial matching (t=1) results:")
     result = evaluate(gold_file, pred_file, partial_match(1))
     print_results("PARTIAL", result)
