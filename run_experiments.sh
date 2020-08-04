@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-echo "Predict - PDR - HunFlair"
+echo "Predict - CRAFT - HunFlair"
 python predict_hunflair.py --input_file corpora/craft_v4.tsv --output_file evaluation/hunflair/craft.ann
 
-echo "Predict - PDR - HunFlair"
+echo "Predict - BioNLP13CG - HunFlair"
 python predict_hunflair.py --input_file corpora/bionlp2013cg.tsv --output_file evaluation/hunflair/bionlp2013cg.ann
 
 echo "Predict - PDR - HunFlair"
