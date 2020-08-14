@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-echo "Predict - PDR - HunFlair"
+echo "Predict - CRAFT - HunFlair"
 python predict_hunflair.py --input_file corpora/craft_v4.tsv --output_file evaluation/hunflair/craft.ann
 
-echo "Predict - PDR - HunFlair"
+echo "Predict - BioNLP13CG - HunFlair"
 python predict_hunflair.py --input_file corpora/bionlp2013cg.tsv --output_file evaluation/hunflair/bionlp2013cg.ann
 
 echo "Predict - PDR - HunFlair"
@@ -53,6 +53,9 @@ echo
 echo "SciSpacy (en_ner_bc5cdr_md)"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/spacy_en_ner_bc5cdr_md/craft.ann 2>&1 | grep chemical | tail -n2
 echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/huner/huner_craft.ann 2>&1 | grep chemical | tail -n2
+echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/hunflair/craft.ann 2>&1 | grep chemical | tail -n2
 echo
@@ -72,6 +75,9 @@ echo
 echo "SciSpacy (en_ner_jnlpba_md)"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/spacy_en_ner_jnlpba_md/craft.ann 2>&1 | grep gene | tail -n2
 echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/huner/huner_craft.ann 2>&1 | grep gene | tail -n2
+echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/hunflair/craft.ann 2>&1 | grep gene | tail -n2
 echo
@@ -87,6 +93,9 @@ python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craf
 echo
 echo "SciSpacy (en_ner_bionlp13cg_md)"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/spacy_en_ner_bionlp13cg_md/craft.ann 2>&1 | grep species | tail -n2
+echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/huner/huner_craft.ann 2>&1 | grep species | tail -n2
 echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/craft_v4.tsv --gold_file corpora/craft_v4.ann --pred_file evaluation/hunflair/craft.ann 2>&1 | grep species | tail -n2
@@ -107,6 +116,9 @@ echo
 echo "SciSpacy (en_ner_bc5cdr_md)"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/spacy_en_ner_bc5cdr_md/bionlp2013cg.ann 2>&1 | grep chemical | tail -n2
 echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/huner/huner_bionlp.ann 2>&1 | grep chemical | tail -n2
+echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/hunflair/bionlp2013cg.ann 2>&1 | grep chemical | tail -n2
 echo
@@ -121,6 +133,9 @@ python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/
 echo
 echo "SciSpacy (en_ner_bc5cdr_md)"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/spacy_en_ner_bc5cdr_md/bionlp2013cg.ann 2>&1 | grep disease | tail -n2
+echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/huner/huner_bionlp.ann 2>&1 | grep disease | tail -n2
 echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/hunflair/bionlp2013cg.ann 2>&1 | grep disease | tail -n2
@@ -140,6 +155,9 @@ echo
 echo "SciSpacy (en_ner_jnlpba_md)"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/spacy_en_ner_jnlpba_md/bionlp2013cg.ann 2>&1 | grep gene | tail -n2
 echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/huner/huner_bionlp.ann 2>&1 | grep gene | tail -n2
+echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/hunflair/bionlp2013cg.ann 2>&1 | grep gene | tail -n2
 echo
@@ -154,6 +172,9 @@ python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/
 echo
 echo "SciSpacy (en_ner_craft_md)"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/spacy_en_ner_craft_md/bionlp2013cg.ann 2>&1 | grep species | tail -n2
+echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/huner/huner_bionlp.ann 2>&1 | grep species | tail -n2
 echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/bionlp2013cg.tsv --gold_file corpora/bionlp2013cg.ann --pred_file evaluation/hunflair/bionlp2013cg.ann 2>&1 | grep species | tail -n2
@@ -173,6 +194,9 @@ python evaluate_ann.py --text_file corpora/pdr.tsv --gold_file corpora/pdr.ann -
 echo
 echo "SciSpacy (en_ner_bc5cdr_md)"
 python evaluate_ann.py --text_file corpora/pdr.tsv --gold_file corpora/pdr.ann --pred_file evaluation/spacy_en_ner_bc5cdr_md/pdr.ann 2>&1 | grep disease | tail -n2
+echo
+echo "HUNER"
+python evaluate_ann.py --text_file corpora/pdr.tsv --gold_file corpora/pdr.ann --pred_file evaluation/huner/huner_pdr.ann 2>&1 | grep disease | tail -n2
 echo
 echo "HunFlair"
 python evaluate_ann.py --text_file corpora/pdr.tsv --gold_file corpora/pdr.ann --pred_file evaluation/hunflair/pdr.ann 2>&1 | grep disease | tail -n2

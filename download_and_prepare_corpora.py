@@ -1,7 +1,7 @@
 import flair
 import os
 
-from flair.datasets import BIONLP2013_CG, BIONLP2013_PC, PDR
+from flair.datasets import BIONLP2013_CG, CRAFT_V4, PDR
 from lxml import etree
 from pathlib import Path
 from typing import List, Dict
@@ -165,7 +165,7 @@ if __name__ == "__main__":
     # Download the data sets via Flair
     PDR()
     BIONLP2013_CG()
-    BIONLP2013_PC()
+    CRAFT_V4()
 
     # Prepare the gold standard annotations
     prepare_craft_corpus(output_directory)
