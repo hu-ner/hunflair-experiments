@@ -1,4 +1,4 @@
 lxml
 flair
-scispacy==0.2.4
+scispacy==0.2.5
 tqdm
