@@ -12,7 +12,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     sentence_splitter = SciSpacySentenceSplitter()
-    tagger = MultiTagger.load("hunflair")
+    tagger = MultiTagger.load("hunflair-paper")
 
     args.output_file.parent.mkdir(parents=True, exist_ok=True)
 
