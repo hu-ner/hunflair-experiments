@@ -1,5 +1,5 @@
 # HunFlair experiments
-This Repository contains the source code to reproduce the experiments conducted in [Weber et al. 
+This repository contains the source code to reproduce the experiments conducted in [Weber et al. 
 "HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition"]().
 
 ## Usage
