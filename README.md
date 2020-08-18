@@ -1,6 +1,6 @@
 # HunFlair experiments
 This repository contains the source code to reproduce the experiments conducted in [Weber et al. 
-"HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition"]().
+"HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition"](https://arxiv.org/abs/2008.07347).
 
 ## Usage
 To reproduce the experiments the following steps have to be performed:
@@ -27,12 +27,10 @@ chmod u+x run_experiments.sh
 Please cite the following paper when using HunFlair:
 ~~~
 @article{weber2020hunflair,
-  author    = {Weber, Leon and S{\"a}nger, Mario and M{\"u}nchmeyer, Jannes and Habibi, Maryam and Leser, Ulf and Akbik, Alan},
-  title     = {HunFlair: An Easy-to-Use Tool for State-of-the-ArtBiomedical Named Entity Recognition},
-  journal   = {},
-  volume    = {},
-  year      = {2020},
-  ee        = {http://arxiv.org/abs/XXX}
+    title={HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition},
+    author={Weber, Leon and S{\"a}nger, Mario and M{\"u}nchmeyer, Jannes  and Habibi, Maryam and Leser, Ulf and Akbik, Alan},
+    journal={arXiv preprint arXiv:2008.07347},
+    year={2020}
 }
 ~~~
 
