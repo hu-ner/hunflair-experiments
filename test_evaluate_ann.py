@@ -28,6 +28,8 @@ class TestNERModelEvaluation(unittest.TestCase):
         ]}
         result = evaluate_ann.evaluate(true_annotations, predicted_annotations, match_func=evaluate_ann.partial_match(2))
         self.assertEqual(result.f_score(), 1.0)
+        result = evaluate_ann.evaluate(true_annotations, predicted_annotations, match_func=evaluate_ann.partial_match(1))
+        self.assertEqual(result.f_score(), 0.0)
 
     def test_no_predicted_annotations(self):
         true_annotations = {'doc1': [
@@ -74,8 +76,27 @@ class TestNERModelEvaluation(unittest.TestCase):
                                        match_func=evaluate_ann.partial_match(2))
         self.assertAlmostEqual(result.f_score(), 0.0, places=2)
 
+    def test_no_match_different_docs(self):
+        true_annotations = {'doc1': [
+            ('doc1',  10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+            ('doc2', 10, 20, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(true_annotations, predicted_annotations,
+                                        match_func=evaluate_ann.partial_match(2))
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
 
-
+    def test_no_match_different_types(self):
+        true_annotations = {'doc1': [
+            ('doc1',  10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+            ('doc1', 10, 20, 'ORG'),
+        ]}
+        result = evaluate_ann.evaluate(true_annotations, predicted_annotations,
+                                        match_func=evaluate_ann.partial_match(2))
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
 
 
 if __name__ == '__main__':

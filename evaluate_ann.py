@@ -316,27 +316,6 @@ def evaluate(gold_annotations: Dict[str, List[Tuple]], pred_annotations: Dict[st
 def exact_match(entry: Tuple, candidates: List[Tuple]) -> Optional[Tuple]:
     return entry if entry in candidates else None
 
-
-def partial_match_old(threshold: int):
-    def _partial_match(entry, candidates):
-        for c in candidates:
-            if (
-                    entry[0] == c[0] # same document?
-                    and
-                    entry[3] == c[3] # same entity type?
-                    and
-                    (
-                            (entry[1] >= (c[1]-threshold) and entry[2] <= c[2]) # Start shifted by <threshold>
-                            or
-                            (entry[1] >= c[1] and entry[2] <= (c[2]+threshold)) # End shifted by <threshold>
-                    )
-
-            ):
-                return c
-
-    return _partial_match
-
-
 def partial_match(threshold):
     def _partial_match(entry, candidates):
         for c in candidates:

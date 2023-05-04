@@ -1,42 +1,42 @@
 #!/usr/bin/env bash
 
-echo "Predict - CRAFT - HunFlair"
-python predict_hunflair.py --input_file corpora/craft_v4.tsv --output_file evaluation/hunflair/craft.ann
-
-echo "Predict - BioNLP13CG - HunFlair"
-python predict_hunflair.py --input_file corpora/bionlp2013cg.tsv --output_file evaluation/hunflair/bionlp2013cg.ann
-
-echo "Predict - PDR - HunFlair"
-python predict_hunflair.py --input_file corpora/pdr.tsv --output_file evaluation/hunflair/pdr.ann
-
-
-# Prediction spacy
-
-echo "Predict - CRAFT - SciSpacy (en_ner_bionlp13cg_md)"
-python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_bionlp13cg_md --output_file evaluation/spacy_en_ner_bionlp13cg_md/craft.ann
-echo "Predict - CRAFT - SciSpacy (en_ner_jnlpba_md)"
-python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/craft.ann
-echo "Predict - CRAFT - SciSpacy (en_ner_bc5cdr_md)"
-python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/craft.ann
-
-## -----------
-echo "Predict - BioNLP13CG - SciSpacy (en_ner_craft_md)"
-python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_craft_md --output_file evaluation/spacy_en_ner_craft_md/bionlp2013cg.ann
-echo "Predict - BioNLP13CG - SciSpacy (en_ner_jnlpba_md)"
-python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/bionlp2013cg.ann
-echo "Predict - BioNLP13CG - SciSpacy (en_ner_bc5cdr_md)"
-python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/bionlp2013cg.ann
-
-## -----------
-
-echo "Predict - PDR - SciSpacy (en_ner_bionlp13cg_md)"
-python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_bionlp13cg_md --output_file evaluation/spacy_en_ner_bionlp13cg_md/pdr.ann
-echo "Predict - PDR - SciSpacy (en_ner_craft_md)"
-python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_craft_md --output_file evaluation/spacy_en_ner_craft_md/pdr.ann
-echo "Predict - PDR - SciSpacy (en_ner_jnlpba_md)"
-python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/pdr.ann
-echo "Predict - PDR - SciSpacy (en_ner_bc5cdr_md)"
-python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/pdr.ann
+#echo "Predict - CRAFT - HunFlair"
+#python predict_hunflair.py --input_file corpora/craft_v4.tsv --output_file evaluation/hunflair/craft.ann
+#
+#echo "Predict - BioNLP13CG - HunFlair"
+#python predict_hunflair.py --input_file corpora/bionlp2013cg.tsv --output_file evaluation/hunflair/bionlp2013cg.ann
+#
+#echo "Predict - PDR - HunFlair"
+#python predict_hunflair.py --input_file corpora/pdr.tsv --output_file evaluation/hunflair/pdr.ann
+#
+#
+## Prediction spacy
+#
+#echo "Predict - CRAFT - SciSpacy (en_ner_bionlp13cg_md)"
+#python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_bionlp13cg_md --output_file evaluation/spacy_en_ner_bionlp13cg_md/craft.ann
+#echo "Predict - CRAFT - SciSpacy (en_ner_jnlpba_md)"
+#python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/craft.ann
+#echo "Predict - CRAFT - SciSpacy (en_ner_bc5cdr_md)"
+#python predict_scispacy.py --input corpora/craft_v4.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/craft.ann
+#
+### -----------
+#echo "Predict - BioNLP13CG - SciSpacy (en_ner_craft_md)"
+#python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_craft_md --output_file evaluation/spacy_en_ner_craft_md/bionlp2013cg.ann
+#echo "Predict - BioNLP13CG - SciSpacy (en_ner_jnlpba_md)"
+#python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/bionlp2013cg.ann
+#echo "Predict - BioNLP13CG - SciSpacy (en_ner_bc5cdr_md)"
+#python predict_scispacy.py --input corpora/bionlp2013cg.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/bionlp2013cg.ann
+#
+### -----------
+#
+#echo "Predict - PDR - SciSpacy (en_ner_bionlp13cg_md)"
+#python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_bionlp13cg_md --output_file evaluation/spacy_en_ner_bionlp13cg_md/pdr.ann
+#echo "Predict - PDR - SciSpacy (en_ner_craft_md)"
+#python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_craft_md --output_file evaluation/spacy_en_ner_craft_md/pdr.ann
+#echo "Predict - PDR - SciSpacy (en_ner_jnlpba_md)"
+#python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_jnlpba_md --output_file evaluation/spacy_en_ner_jnlpba_md/pdr.ann
+#echo "Predict - PDR - SciSpacy (en_ner_bc5cdr_md)"
+#python predict_scispacy.py --input corpora/pdr.tsv --model en_ner_bc5cdr_md --output_file evaluation/spacy_en_ner_bc5cdr_md/pdr.ann
 
 #########################################################################################################################
 
