@@ -97,6 +97,76 @@ class TestNERModelEvaluation(unittest.TestCase):
         result = evaluate_ann.evaluate(true_annotations, predicted_annotations,
                                         match_func=evaluate_ann.partial_match(2))
         self.assertAlmostEqual(result.f_score(), 0.0, places=2)
+        
+    def test_no_match_substring(self):
+        true_annotations = {'doc1': [
+                ('doc1', 10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+                ('doc1', 10, 19, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(
+            true_annotations,
+            predicted_annotations,
+            match_func=evaluate_ann.partial_match(0),
+        )
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
+
+    def test_no_match_true_substring(self):
+        true_annotations = {'doc1': [
+                ('doc1', 10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+                ('doc1', 12, 19, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(
+            true_annotations,
+            predicted_annotations,
+            match_func=evaluate_ann.partial_match(0),
+        )
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
+
+    def test_no_match_superstring(self):
+        true_annotations = {'doc1': [
+                ('doc1', 10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+                ('doc1', 10, 25, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(
+            true_annotations,
+            predicted_annotations,
+            match_func=evaluate_ann.partial_match(0),
+        )
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
+
+    def test_no_match_true_superstring(self):
+        true_annotations = {'doc1': [
+                ('doc1', 10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+                ('doc1', 8, 25, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(
+            true_annotations,
+            predicted_annotations,
+            match_func=evaluate_ann.partial_match(0),
+        )
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)
+
+    def test_no_match_shifted_string(self):
+        true_annotations = {'doc1': [
+                ('doc1', 10, 20, 'PERSON'),
+        ]}
+        predicted_annotations = {'doc1': [
+                ('doc1', 13, 28, 'PERSON'),
+        ]}
+        result = evaluate_ann.evaluate(
+            true_annotations,
+            predicted_annotations,
+            match_func=evaluate_ann.partial_match(0),
+        )
+        self.assertAlmostEqual(result.f_score(), 0.0, places=2)        
 
 
 if __name__ == '__main__':
